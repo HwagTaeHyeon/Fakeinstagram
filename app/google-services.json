@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "905218307022",
+    "firebase_url": "https://fakeinstagram-71fb1.firebaseio.com",
+    "project_id": "fakeinstagram-71fb1",
+    "storage_bucket": "fakeinstagram-71fb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905218307022:android:01bd78083eb7e25549319f",
+        "android_client_info": {
+          "package_name": "com.example.fakeinstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905218307022-lkkeakrpr4e9923elj7scgpmm3hiap4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMurGH-ACddpxuSt-ubWTSd4hgmQNsoX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905218307022-lkkeakrpr4e9923elj7scgpmm3hiap4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
