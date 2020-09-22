@@ -8,9 +8,7 @@ Fakeinstagram is...
 <h2>I use ...</h2>
   <ul>
     <li>Tool</li>
-    <ul>
-      <li>Android studio</li>
-    </ul>
+    <li>Android studio</li>
     <li>Server : Firebase</li>
     <li>Build : Gradle 4.0.1</li>
     <li>Library : OkHttp 3.4.1, Gson 2.8.6, MultiDex 2.0.1</li>
