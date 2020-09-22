@@ -16,7 +16,6 @@ Fakeinstagram is...
       <ul>
         <li>Facebook Login API</li>
         <li>GMail Login API</li>
-        <li>Twilio Message API</li>
        </ul>
     </li>
     <li>Language</li>
