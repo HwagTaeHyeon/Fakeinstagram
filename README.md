@@ -3,9 +3,8 @@
 
 <h2>What is</h2>
 &nbsp;This Repository is about 'Fakeinstagram'(clone of instagram).<br>
-Fakeinstagram is...
 
-<h2>I use ...</h2>
+<h2>I use</h2>
   <ul>
     <li>Tool : Android studio</li>
     <li>Server : Firebase</li>
